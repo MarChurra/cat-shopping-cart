@@ -92,4 +92,5 @@ ul li:hover {
     width: 325px;
     height: 250px;
     border-radius: 10px;
+    overflow-y: scroll;
 }
