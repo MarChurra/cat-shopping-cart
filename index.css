@@ -89,8 +89,8 @@ ul li:hover {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    width: 325px;
-    height: 250px;
+    width: 100%;
+    height: auto;
     border-radius: 10px;
     overflow-y: scroll;
 }
