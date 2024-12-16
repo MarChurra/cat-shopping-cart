@@ -40,6 +40,7 @@ button {
   background-color: #ac485a;
   border: 0;
   padding: 15px;
+  margin-top: 0.5em;
   border-radius: 8px;
   font-size: 20px;
   text-align: center;
@@ -74,10 +75,16 @@ ul li:hover {
   cursor: pointer;
 }
 
-#shopping-list {
+p {
   width: 100%;
+  font-size: 1.2rem;
+text-align: center;
+}
+
+#shopping-list {
+  margin-top: 2em;
+  width: 90%;
   height: auto;
-  border-radius: 10px;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
